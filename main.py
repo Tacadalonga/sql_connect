@@ -31,4 +31,4 @@ db.commit() """
 mycursor.execute('SELECT * FROM Person')
 
 for x in mycursor:
-    print(x)
+    print("fdsf" + x)
